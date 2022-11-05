@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261379520764",
+    "project_id": "movie-app-b9036",
+    "storage_bucket": "movie-app-b9036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261379520764:android:24caf1053699b57b53ff79",
+        "android_client_info": {
+          "package_name": "yaumil.training.movie_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261379520764-b074kkkn2ku6mevlpdnlcvfmv7vdqjl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd6lN2QR_RYmKDNQoWdtqWVDOUOtTH-v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261379520764-b074kkkn2ku6mevlpdnlcvfmv7vdqjl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
